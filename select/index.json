@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "moremoremore",
+  "base_artist": "中村さんそ",
+  "createdAt": "2026-02-13T12:38:14.078817Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "moremoremore",
+      "artist": "Sanso Nakamura",
+      "has_synced": true,
+      "path": "select/01_moremoremore_Sanso_Nakamura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "moremoremore",
+      "artist": "中村さんそ",
+      "has_synced": false,
+      "path": "select/pl_01_moremoremore_中村さんそ.txt"
+    }
+  ]
+}
